@@ -1,0 +1,13 @@
+# Ignore var
+.env
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Misc Ignore
+Debugging.py
+venv/
+dependabot_alerts_report.json
